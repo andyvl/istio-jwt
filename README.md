@@ -1,5 +1,5 @@
 # Istio JWT Authentication & Authorization at the edge
-Companion github repo for the article TBD.
+Companion github repo for the article (https://getpocket.com/read/3777953383).
 This repo is a playground for JWT authentication using istio's request authentication and JWT authorization using GRPC/HTTP external authorizers
 
 ## Structure
